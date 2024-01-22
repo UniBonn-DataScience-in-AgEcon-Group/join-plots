@@ -23,7 +23,7 @@ and largest area overlap to determine crop rotations on a single plot level.
 - `--hist` - Path to the historical files folder (vector geometry files, must be readable by GeoPandas/pyogrio)
 - `--out` - Path to the output file (vector geometry file AND CSV, (vector geometry must be writable by GeoPandas/pyogrio)
 - `--key` - Crop key to use for the join (default: `CODE`) -> will be converted to {key}_{year} in the output
-- `--
+- `--id` - Plot ID key to use for the join (default: `ID`)
 
 ## Example
 
