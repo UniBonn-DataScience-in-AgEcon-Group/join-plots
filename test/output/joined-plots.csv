@@ -1,0 +1,83 @@
+,ID,INSPIRE_ID,FLIK,AREA_HA,CODE_2023,CODE_TXT,USE_CODE,USE_TXT,D_PG,CROPDIV,EFA,ELER,WJ,DAT_BEARB,CODE_2022,CODE_2019,CODE_2020,CODE_2021
+0,6591481,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6591481,DENWLI0539160407,0.3399,115,Winterweichweizen,GT,Getreide,N,N,N,N,2023,2023-04-11 22:00:00+00:00,411,910,910,910
+1,6591482,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6591482,DENWLI0539160991,2.118,311,Winterraps,OE,Ölsaaten,N,N,N,Y,2023,2023-04-11 22:00:00+00:00,131,115,311,115
+2,6591483,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6591483,DENWLI0539160991,2.1409,115,Winterweichweizen,GT,Getreide,N,N,N,Y,2023,2023-04-11 22:00:00+00:00,602,115,131,411
+3,6591489,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6591489,DENWLI0539164359,1.4685,311,Winterraps,OE,Ölsaaten,N,N,N,Y,2023,2023-04-11 22:00:00+00:00,131,131,311,115
+4,6591490,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6591490,DENWLI0539164550,3.231,131,Wintergerste,GT,Getreide,N,N,N,N,2023,2023-04-11 22:00:00+00:00,115,131,411,602
+5,6591491,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6591491,DENWLI0539164550,0.034,573,Uferrandstreifenprogramm (AUM),SL,Stilllegung,N,N,N,Y,2023,2023-04-11 22:00:00+00:00,573,573,573,573
+6,6591492,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6591492,DENWLI0539165496,2.6903,602,Kartoffeln,HF,Hackfrüchte,N,N,N,N,2023,2023-04-11 22:00:00+00:00,411,602,115,131
+7,6591493,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6591493,DENWLI0539165496,0.5928,602,Kartoffeln,HF,Hackfrüchte,N,N,N,N,2023,2023-04-11 22:00:00+00:00,411,910,910,910
+8,6591494,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6591494,DENWLI0539165496,0.235,573,Uferrandstreifenprogramm (AUM),SL,Stilllegung,N,N,N,Y,2023,2023-04-11 22:00:00+00:00,573,573,573,573
+9,6591496,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6591496,DENWLI0539165582,2.8267,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-04-11 22:00:00+00:00,459,459,459,459
+10,6680647,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6680647,DENWLI0539164189,1.0997,459,Grünland,GL,Dauergrünland,Y,N,N,N,2023,2023-04-23 22:00:00+00:00,459,459,459,459
+11,6729451,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6729451,DENWLI0539164875,0.1184,62,Kond.-Brache (Selbstbegrünung),PA,ohne Produktion,N,N,Y,N,2023,2023-04-26 22:00:00+00:00,575,575,575,575
+12,6729452,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6729452,DENWLI0539164875,1.3686,311,Winterraps,OE,Ölsaaten,N,N,N,N,2023,2023-04-26 22:00:00+00:00,131,131,411,115
+13,6732293,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6732293,DENWLI0539160758,3.5727,131,Wintergerste,GT,Getreide,N,N,N,Y,2023,2023-04-26 22:00:00+00:00,156,131,171,115
+14,6732295,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6732295,DENWLI0539160828,3.9405,115,Winterweichweizen,GT,Getreide,N,N,N,Y,2023,2023-04-26 22:00:00+00:00,171,115,156,131
+15,6748222,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6748222,DENWLI0539160044,0.4406,910,Wildacker auf lw. Fläche,SF,Sonstiges,N,N,N,N,2023,2023-04-27 22:00:00+00:00,424,142,424,424
+16,6748223,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6748223,DENWLI0539164188,0.5044,910,Wildacker auf lw. Fläche,SF,Sonstiges,N,N,N,N,2023,2023-04-27 22:00:00+00:00,424,142,424,424
+17,6748224,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6748224,DENWLI0539164854,0.8368,910,Wildacker auf lw. Fläche,SF,Sonstiges,N,N,N,N,2023,2023-04-27 22:00:00+00:00,424,142,424,424
+18,6748225,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6748225,DENWLI0539164854,0.2507,910,Wildacker auf lw. Fläche,SF,Sonstiges,N,N,N,N,2023,2023-04-27 22:00:00+00:00,424,142,424,424
+19,6792303,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6792303,DENWLI0539163613,0.5086,634,Möhre (auch Futtermöhre),GM,Gemüse,N,N,N,Y,2023,2023-05-02 22:00:00+00:00,51,220,629,121
+20,6792304,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6792304,DENWLI0539163613,0.1396,643,Pastinaken,GM,Gemüse,N,N,N,Y,2023,2023-05-02 22:00:00+00:00,51,220,629,121
+21,6792305,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6792305,DENWLI0539163617,1.3117,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-02 22:00:00+00:00,459,459,459,459
+22,6792306,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6792306,DENWLI0539165017,0.4049,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-02 22:00:00+00:00,459,459,459,459
+23,6792310,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6792310,DENWLI0539165169,1.1899,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-02 22:00:00+00:00,459,459,459,459
+24,6792311,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6792311,DENWLI0539165171,0.8909,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-02 22:00:00+00:00,459,459,459,459
+25,6792313,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6792313,DENWLI0539165488,2.8896,610,beetweiser Anbau von Gemüse,SF,Sonstiges,N,N,N,Y,2023,2023-05-02 22:00:00+00:00,51,674,51,51
+26,6792315,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6792315,DENWLI0539165488,0.1316,720,beetweise Anbau Zierpflanzen,SF,Sonstiges,N,N,N,Y,2023,2023-05-02 22:00:00+00:00,51,674,51,51
+27,6901832,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6901832,DENWLI0539162251,0.6486,62,Kond.-Brache (Selbstbegrünung),PA,ohne Produktion,N,N,Y,N,2023,2023-05-08 22:00:00+00:00,591,591,591,591
+28,6935493,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6935493,DENWLI0539162896,2.6226,459,Grünland,GL,Dauergrünland,Y,N,N,N,2023,2023-05-09 22:00:00+00:00,459,459,459,459
+29,6935494,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6935494,DENWLI0539162949,2.9242,459,Grünland,GL,Dauergrünland,Y,N,N,N,2023,2023-05-09 22:00:00+00:00,459,459,459,459
+30,6935496,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6935496,DENWLI0539165513,0.7141,459,Grünland,GL,Dauergrünland,Y,N,N,N,2023,2023-05-09 22:00:00+00:00,459,459,459,459
+31,6936600,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6936600,DENWLI0539160303,1.1188,220,Ackerbohnen-/Dicke Bohne,EW,Eiweißpflanzen,N,N,N,N,2023,2023-05-09 22:00:00+00:00,171,171,115,121
+32,6936629,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6936629,DENWLI0539165456,0.1983,424,Ackergras,AF,Ackerfutter,N,N,N,N,2023,2023-05-09 22:00:00+00:00,575,575,575,575
+33,6936630,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/6936630,DENWLI0539165456,1.8993,220,Ackerbohnen-/Dicke Bohne,EW,Eiweißpflanzen,N,N,N,N,2023,2023-05-09 22:00:00+00:00,115,122,131,602
+34,7115954,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7115954,DENWLI0539160308,1.1978,411,Silomais,AF,Ackerfutter,N,N,N,Y,2023,2023-05-12 22:00:00+00:00,115,411,602,411
+35,7115955,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7115955,DENWLI0539160407,1.1363,115,Winterweichweizen,GT,Getreide,N,N,Y,Y,2023,2023-05-12 22:00:00+00:00,220,115,411,633
+36,7115962,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7115962,DENWLI0539160999,5.1623,411,Silomais,AF,Ackerfutter,N,N,N,N,2023,2023-05-12 22:00:00+00:00,220,115,602,411
+37,7115963,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7115963,DENWLI0539161095,6.4833,602,Kartoffeln,HF,Hackfrüchte,N,N,N,Y,2023,2023-05-12 22:00:00+00:00,411,602,603,115
+38,7115969,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7115969,DENWLI0539161672,0.1959,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-12 22:00:00+00:00,459,459,459,459
+39,7115971,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7115971,DENWLI0539161843,0.2833,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-12 22:00:00+00:00,459,459,459,459
+40,7115976,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7115976,DENWLI0539164606,3.0959,602,Kartoffeln,HF,Hackfrüchte,N,N,N,N,2023,2023-05-12 22:00:00+00:00,115,411,115,411
+41,7115977,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7115977,DENWLI0539164606,2.5026,411,Silomais,AF,Ackerfutter,N,N,N,N,2023,2023-05-12 22:00:00+00:00,603,411,602,411
+42,7115978,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7115978,DENWLI0539164608,2.2536,602,Kartoffeln,HF,Hackfrüchte,N,N,N,N,2023,2023-05-12 22:00:00+00:00,411,633,634,603
+43,7115983,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7115983,DENWLI0539164956,1.2279,411,Silomais,AF,Ackerfutter,N,N,N,Y,2023,2023-05-12 22:00:00+00:00,220,411,220,618
+44,7115984,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7115984,DENWLI0539164956,7.0001,115,Winterweichweizen,GT,Getreide,N,N,Y,N,2023,2023-05-12 22:00:00+00:00,602,115,603,115
+45,7115989,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7115989,DENWLI0539165496,5.2177,602,Kartoffeln,HF,Hackfrüchte,N,N,N,N,2023,2023-05-12 22:00:00+00:00,411,602,411,131
+46,7116286,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7116286,DENWLI0539160400,1.478,311,Winterraps,OE,Ölsaaten,N,N,N,Y,2023,2023-05-12 22:00:00+00:00,115,411,115,411
+47,7116339,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7116339,DENWLI0539162712,1.1424,459,Grünland,GL,Dauergrünland,Y,N,N,N,2023,2023-05-12 22:00:00+00:00,459,459,459,459
+48,7116452,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7116452,DENWLI0539165513,0.5682,459,Grünland,GL,Dauergrünland,Y,N,N,N,2023,2023-05-12 22:00:00+00:00,459,459,459,459
+49,7116453,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7116453,DENWLI0539165513,1.409,459,Grünland,GL,Dauergrünland,Y,N,N,N,2023,2023-05-12 22:00:00+00:00,459,459,459,459
+50,7116454,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7116454,DENWLI0539165513,0.5588,459,Grünland,GL,Dauergrünland,Y,N,N,N,2023,2023-05-12 22:00:00+00:00,459,459,459,459
+51,7129579,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7129579,DENWLI0539160927,1.0779,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-13 22:00:00+00:00,459,459,459,459
+52,7129581,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7129581,DENWLI0539164549,2.6113,411,Silomais,AF,Ackerfutter,N,N,N,Y,2023,2023-05-13 22:00:00+00:00,633,634,602,411
+53,7129582,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7129582,DENWLI0539164957,6.451,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-13 22:00:00+00:00,459,459,459,459
+54,7129583,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7129583,DENWLI0539165066,3.0441,424,Ackergras,AF,Ackerfutter,N,N,N,Y,2023,2023-05-13 22:00:00+00:00,424,115,424,424
+55,7129584,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7129584,DENWLI0539165169,3.9599,459,Grünland,GL,Dauergrünland,N,N,N,Y,2023,2023-05-13 22:00:00+00:00,459,459,459,459
+56,7129585,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7129585,DENWLI0539165170,0.4025,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-13 22:00:00+00:00,459,459,459,459
+57,7129586,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7129586,DENWLI0539165298,2.8631,411,Silomais,AF,Ackerfutter,N,N,N,Y,2023,2023-05-13 22:00:00+00:00,602,115,411,633
+58,7138476,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7138476,DENWLI0539160545,2.0488,591,AL aus Erzeugung genommen,PA,ohne Produktion,N,N,N,N,2023,2023-05-13 22:00:00+00:00,591,591,591,591
+59,7138477,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7138477,DENWLI0539164854,0.9009,591,AL aus Erzeugung genommen,PA,ohne Produktion,N,N,N,N,2023,2023-05-13 22:00:00+00:00,591,591,591,591
+60,7138479,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7138479,DENWLI0539165454,3.892,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-13 22:00:00+00:00,459,459,459,459
+61,7138480,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7138480,DENWLI0539165487,4.209,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-13 22:00:00+00:00,459,591,459,459
+62,7167955,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7167955,DENWLI0539164880,0.7603,459,Grünland,GL,Dauergrünland,Y,N,N,N,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+63,7177938,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177938,DENWLI0539163619,0.6135,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+64,7177939,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177939,DENWLI0539163620,0.8456,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+65,7177941,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177941,DENWLI0539165326,0.1026,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+66,7177942,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177942,DENWLI0539165327,0.313,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+67,7177943,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177943,DENWLI0539165328,0.1761,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+68,7177944,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177944,DENWLI0539165329,0.2606,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+69,7177945,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177945,DENWLI0539165330,0.2027,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+70,7177946,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177946,DENWLI0539165331,0.3401,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+71,7177947,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177947,DENWLI0539165332,0.1548,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+72,7177948,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177948,DENWLI0539165333,0.199,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+73,7177949,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177949,DENWLI0539165334,0.8721,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+74,7177950,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177950,DENWLI0539165335,0.3981,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+75,7177951,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177951,DENWLI0539165336,0.204,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+76,7177952,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177952,DENWLI0539165337,0.4271,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+77,7177955,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177955,DENWLI0539165356,0.1022,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+78,7177957,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7177957,DENWLI0539165359,0.1735,459,Grünland,GL,Dauergrünland,Y,N,N,Y,2023,2023-05-14 22:00:00+00:00,459,459,459,459
+79,7225751,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7225751,DENWLI0539163659,0.348,459,Grünland,GL,Dauergrünland,Y,N,N,N,2023,2023-05-15 22:00:00+00:00,459,459,459,459
+80,7225752,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7225752,DENWLI0539164854,0.5887,171,Mais (ohne Silomais),GT,Getreide,N,N,N,N,2023,2023-05-15 22:00:00+00:00,132,172,115,143
+81,7225755,https://geodaten.nrw.de/id/inspire-lu-ts/existinglanduseobject/7225755,DENWLI0539165455,3.7768,171,Mais (ohne Silomais),GT,Getreide,N,N,N,N,2023,2023-05-15 22:00:00+00:00,132,131,172,115
