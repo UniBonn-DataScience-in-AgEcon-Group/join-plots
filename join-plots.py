@@ -139,7 +139,7 @@ for year in crop_types.keys():
   plots_current.rename(columns={f"{id_key}_right": f"{id_key}_{year}"}, inplace=True)
   # Drop the columns that are not needed anymore
   plots_current = plots_current.drop(
-    columns=['index_right', 'intersection', 'geometry_right']
+    columns=['index_right', 'intersection', 'geometry_right', f"{id_key}_right"]
   )
   plots_current.set_crs(epsg=25832, inplace=True)
   # rename ID_left to ID
