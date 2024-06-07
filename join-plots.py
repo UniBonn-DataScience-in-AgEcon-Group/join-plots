@@ -116,11 +116,11 @@ for year in crop_types.keys():
   # We only join the plot with the largest intersection area,
   # however, we want to store the other intersections in a separate column
   # so we can check them later
-  intersections = plots_current\
-    .sort_values(by='intersection')\
-    .groupby(f"{id_key}_left")\
-    .apply(lambda group: "::".join(stringify_row(row) for row in group.iterrows()) if group.shape[0] > 0 else None)\
-    .rename(f"intersections_{year}")
+  #intersections = plots_current\
+  #  .sort_values(by='intersection')\
+  #  .groupby(f"{id_key}_left")\
+  #  .apply(lambda group: "::".join(stringify_row(row) for row in group.iterrows()) if group.shape[0] > 0 else None)\
+  #  .rename(f"intersections_{year}")
       
   # plots_current["intersection"] = plots_current["geometry"].intersection(plots_current["geometry_right"], align=False).area
   # Sort by intersection area and keep only the last row 
@@ -132,14 +132,15 @@ for year in crop_types.keys():
     .reset_index()
   
   # Join intersections with the plots_current dataframe
-  plots_current = plots_current.join(
-    intersections, on=f"{id_key}_left"
-  )
+  #plots_current = plots_current.join(
+  #  intersections, on=f"{id_key}_left"
+  #)
   # Rename f"{id_key}_right" to f"{id_key}_{year}"
   plots_current.rename(columns={f"{id_key}_right": f"{id_key}_{year}"}, inplace=True)
   # Drop the columns that are not needed anymore
   plots_current = plots_current.drop(
-    columns=['index_right', 'intersection', 'geometry_right', f"{id_key}_right"]
+    # columns=['index_right', 'intersection', 'geometry_right', f"{id_key}_right"]
+    columns=['index_right', 'intersection', 'geometry_right']
   )
   plots_current.set_crs(epsg=25832, inplace=True)
   # rename ID_left to ID
